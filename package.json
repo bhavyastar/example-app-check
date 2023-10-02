@@ -4,14 +4,15 @@
   "description": "",
   "main": "demo.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node demo.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhavyastar/example-app-check.git"
+    "url": "https://github.com/bhavyastar/example-app-check.git"
   },
   "bugs": {
     "url": "https://github.com/bhavyastar/example-app-check/issues"
