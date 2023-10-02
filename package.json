@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavyastar/example-app-check.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhavyastar/example-app-check/issues"
+  },
+  "homepage": "https://github.com/bhavyastar/example-app-check#readme"
 }
