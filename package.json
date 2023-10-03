@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/bhavyastar/example-app-check/issues"
   },
-  "homepage": "https://github.com/bhavyastar/example-app-check#readme"
+  "homepage": "https://github.com/bhavyastar/example-app-check#readme",
+  "dependencies": {
+    "node": "^20.7.0",
+    "nodemon": "^3.0.1"
+  }
 }
